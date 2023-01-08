@@ -4,6 +4,8 @@ First attempt at web3
 
 Make sure you have your HardHat accounts connected
 Click on connect to connect your metamask to our system
+Requirements:
+Install NodeJS
 
 1. Clone/Download the Repository
 2. Install Dependencies:
