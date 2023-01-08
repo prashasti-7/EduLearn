@@ -1,4 +1,4 @@
-# Web3
+# EduEarn Web3
 First attempt at web3
 
 
