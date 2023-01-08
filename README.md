@@ -6,8 +6,8 @@ Make sure you have your HardHat accounts connected
 Click on connect to connect your metamask to our system
 Requirements:
 1. Install NodeJS
-2. Run `npm init`
-3. Clone/Download the Repository
+2. Clone/Download the Repository
+3. Run `npm init`
 4. Install Dependencies:
 `$ npm install`
 
