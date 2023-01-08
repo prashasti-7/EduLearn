@@ -5,20 +5,20 @@ First attempt at web3
 Make sure you have your HardHat accounts connected
 Click on connect to connect your metamask to our system
 Requirements:
-Install NodeJS
-
-1. Clone/Download the Repository
-2. Install Dependencies:
+1. Install NodeJS
+2. Run `npm init`
+3. Clone/Download the Repository
+4. Install Dependencies:
 `$ npm install`
 
-3. Run tests
+5. Run tests
 `$ npx hardhat test`
 
-4. Start Hardhat node
+6. Start Hardhat node
 `$ npx hardhat node`
 
-5. Run deployment script
+7. Run deployment script
 In a separate terminal execute: `$ npx hardhat run ./scripts/deploy.js --network localhost`
 
-7. Start frontend
+8. Start frontend
 `$ npm run start`
